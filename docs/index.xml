@@ -6,10 +6,19 @@
     <description>Recent content on Signal Sciences Status</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2017 01:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 02:47:58 +0000</lastBuildDate>
     
 	<atom:link href="https://status.signalsciences.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://status.signalsciences.net/testincident/update2/</link>
+      <pubDate>Fri, 21 Apr 2017 02:47:58 +0000</pubDate>
+      
+      <guid>https://status.signalsciences.net/testincident/update2/</guid>
+      <description>still looks ok so far</description>
+    </item>
     
     <item>
       <title>I started this on github</title>
